@@ -53,6 +53,7 @@ class MainActivity : AppCompatActivity(), IBannerLoadDoneListener, IComicLoadDon
         loadBanners()
         loadComic()
 
+
         //first load banner and comic
         swipe_to_refresh.setColorSchemeResources(R.color.colorPrimary,R.color.colorPrimaryDark)
         swipe_to_refresh.setOnRefreshListener {

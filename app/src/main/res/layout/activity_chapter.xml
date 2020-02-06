@@ -29,7 +29,7 @@
 
 
         <TextView
-            android:id="@+id/txt_comic"
+            android:id="@+id/txt_chapter_name"
             android:text="Chapter (10)"
             android:textColor="@color/textColor"
             android:textSize="20sp"
